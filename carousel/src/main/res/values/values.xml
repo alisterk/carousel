@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CarouselRecyclerView">
+
+        <attr name="item_rotation" format="boolean"/>
+        <attr name="rotation_value" format="float"/>
+
+    </declare-styleable>
+
+
+</resources>
